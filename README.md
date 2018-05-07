@@ -14,5 +14,3 @@ Configuration
 Now You should be good to go.
 
 
-# Oauth2_conexion
-# Oauth2_conexion
